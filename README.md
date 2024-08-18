@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=HvnPeeLEVq0&t=0s
 
 ## How To Setup
 ```
-git clone https://github.com/sajib1066/event-calendar.git
+git clone https://github.com/helliospan/90YearsInWeeks.git
 ```
 ```
 cd event-calendar
